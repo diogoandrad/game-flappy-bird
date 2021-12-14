@@ -1,2 +1,2 @@
-# game-flappy-bird
-Game Flappy bird
+# Game flappy bird
+Jogo desenvolvido em C#.
